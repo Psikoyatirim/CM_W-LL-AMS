@@ -1,0 +1,4 @@
+pandas
+numpy
+requests
+tvdatafeed @ git+https://github.com/rongardF/tvdatafeed
